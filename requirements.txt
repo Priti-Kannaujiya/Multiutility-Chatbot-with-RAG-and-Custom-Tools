@@ -3,6 +3,7 @@ python-dotenv
 requests
 pypdf
 duckduckgo-search
+ddgs
 faiss-cpu
 sentence-transformers
 langchain
