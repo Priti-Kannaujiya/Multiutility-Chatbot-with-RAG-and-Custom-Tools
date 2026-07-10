@@ -14,4 +14,6 @@ langchain-groq
 langchain-huggingface
 langchain-text-splitters
 langgraph
+tavily-python
+pydantic
 langgraph-checkpoint-sqlite
